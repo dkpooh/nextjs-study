@@ -1,0 +1,19 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server1", "author": "typicode" },
+    { "id": 2, "title": "json-server2", "author": "typicode" },
+    { "id": 3, "title": "json-server3", "author": "typicode" }
+  ],
+  "products": [
+    {"id": 18359344, "title" : "에뛰드하우스 순정 10무 수분 에멀전", "price" : 68000 },
+    {"id": 1800186707, "title" : "이니스프리 비자 트러블 로션", "price" : 8650 },
+    {"id": 340577578, "title" : "이니스프리 그린티 밸런싱 로션 160ML 1+1 한정_저세상특가 로션/에멀젼", "price" : 11500 }
+  ],
+  "prices": [
+    {"id": 18359344, "price" : 68000 },
+    {"id": 1800186707,"price" : 8650 },
+    {"id": 340577578, "price" : 11500 }
+  ]
+}
+
+
